@@ -1,6 +1,6 @@
 <H1>Leonardo Farran</H1>
 
-<b>JR Developer & Informatic Student at ISPC</b>
+<b>JR Software Developer & Informatic Student at ISPC</b>
 
 📍 Cordoba, Argentina</BR>
 
