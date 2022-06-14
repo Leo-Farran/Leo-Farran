@@ -11,8 +11,8 @@ Aqui podran ver mi progreso y mis proyectos personales.
 <ul>
 <li>HTML5</li>
 <li>CSS</li>
-<li>Java Script</li>
 <li>PYTHON</li>
+<li>C#</li>
 <li>C++</li>
 <li>PSeInt</li>
 </ul>
@@ -20,11 +20,10 @@ Aqui podran ver mi progreso y mis proyectos personales.
 
 <b>Soft Skills</b></BR>
 <ul>
-<li>Constante</li>
-<li>Buen compañero</li>
-<li>Autodidacta</li>
+<li>Creativo</li>
+<li>Habilidad de escucha y comunicacion acertiva</li>
+<li>Trabajo en equuipo</li>
 <li>Pro-activo</li>
-<li>Entusiasta de aprender</li>
 </ul>
 </BR>
 <b>Contacto</b></BR>
