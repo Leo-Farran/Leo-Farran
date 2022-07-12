@@ -4,7 +4,7 @@
 
 📍 Cordoba, Argentina</BR>
 
-En 2020 comence a interesarme por la programacion al tener contacto con python y el web scraping, ya que fue una herramienta que utilice al participar del mercado de capitales. Desde ese momento supe que queria dedicarme al desarrollo de software. A partir de alli empece a capacitarme a traves de cursos dictados en Udemy en diferentes lenguajes de programacion. Actualmente estoy cursando la carrera de tecnico superior en desarrollo web y aplicaciones digitales.
+En 2020 comence a interesarme por la programacion al tener contacto con python y el web scraping, ya que fue una herramienta que utilice al participar del mercado de capitales. Desde ese momento supe que queria dedicarme al desarrollo de software. A partir de alli empece a capacitarme a traves de cursos dictados en Udemy en diferentes lenguajes de programacion. Actualmente estoy cursando la carrera de tecnico superior en desarrollo web y aplicaciones digitales en ISPC (https://www.ispc.edu.ar).
 Aqui podran ver mi progreso y mis proyectos personales.
 
 <b>Tech Skills</b> (Jr seniority)</BR>
