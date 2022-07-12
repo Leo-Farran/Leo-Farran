@@ -15,14 +15,15 @@ Aqui podran ver mi progreso y mis proyectos personales.
 <li>C#</li>
 <li>C++</li>
 <li>PSeInt</li>
+<li>Git/GitHub</li>
 </ul>
 
 
 <b>Soft Skills</b></BR>
 <ul>
-<li>Creativo</li>
+<li>Buen manejo del tiempo</li>
 <li>Habilidad de escucha y comunicacion acertiva</li>
-<li>Trabajo en equuipo</li>
+<li>Trabajo en equipo</li>
 <li>Pro-activo</li>
 </ul>
 </BR>
