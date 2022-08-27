@@ -20,9 +20,11 @@ Aqui podran ver mi progreso y mis proyectos personales.
 <b>Soft Skills</b></BR>
 <ul>
 <li>Buen manejo del tiempo</li>
-<li>Habilidad de escucha y comunicacion acertiva</li>
+<li>Pensamiento analitico</li>
+<li>Creativo</li>
 <li>Trabajo en equipo</li>
 <li>Pro-activo</li>
+
 </ul>
 </BR>
 <b>Contacto</b></BR>
