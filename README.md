@@ -13,7 +13,6 @@ Aqui podran ver mi progreso y mis proyectos personales.
 <li>CSS</li>
 <li>PYTHON</li>
 <li>C#</li>
-<li>PSeInt</li>
 <li>Git/GitHub</li>
 </ul>
 
