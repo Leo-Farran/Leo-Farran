@@ -1,6 +1,6 @@
 <H1>Leonardo Farran</H1>
 
-<b>Desarrollador web JR</b>
+<b>Desarrollador Web</b>
 
 📍 Cordoba, Argentina</BR>
 
