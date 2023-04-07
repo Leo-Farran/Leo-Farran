@@ -14,6 +14,7 @@ Aqui podran ver mi progreso y mis proyectos personales.
 <li>JavaScript</>
 <li>PYTHON</li>
 <li>.NET 6 / C#</li>
+<li>Java</li>
 <li>SQL / MySQL</li>
 <li>Git/GitHub</li>
 </ul>
